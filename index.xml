@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>My New Hugo Site on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://okgde.github.io/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 31 Jul 2019 10:48:47 CST</updated>
+    
+    <item>
+      <title>First</title>
+      <link>http://okgde.github.io/post/first/</link>
+      <pubDate>Wed, 31 Jul 2019 10:48:47 CST</pubDate>
+      
+      <guid>http://okgde.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://okgde.github.io/about/</link>
+      <pubDate>Wed, 31 Jul 2019 10:48:12 CST</pubDate>
+      
+      <guid>http://okgde.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
